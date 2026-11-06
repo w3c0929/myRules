@@ -1,0 +1,67 @@
+payload:
+  # ===== 字节 / 穿山甲 / 巨量 =====
+  - '+.oceanengine.com'
+  - 'ad.zijieapi.com'
+  - 'ad.bytedanceapi.com'
+  # ===== 腾讯广点通 =====
+  - '+.gdt.qq.com'
+  - 'ad.qq.com'
+  - 'ad.weixin.qq.com'
+  - 'ad.wx.com'
+  # ===== 阿里 =====
+  - '+.tanx.com'
+  - 'promotion.pddpic.com'
+  # ===== 百度 =====
+  - 'cpro.baidustatic.com'
+  - 'mobads.baidu.com'
+  - 'ocpc.baidu.com'
+  # ===== OPPO =====
+  - '+.ads.heytapmobi.com'
+  - '+.ads.oppomobile.com'
+  - 'adsfs.heytapimage.com'
+  - 'adsfs-sdkconfig.heytapimage.com'
+  # ===== 小米 / vivo =====
+  - '+.ad.xiaomi.com'
+  - 'marketing-api.vivo.com.cn'
+  # ===== 聚合广告平台 =====
+  - '+.anythinktech.com'
+  - '+.sigmob.cn'
+  - '+.ads66.com'
+  - 'sdk.adx.adwangmai.com'
+  - 'adx.requests.letway.cn'
+  - 'ad-data-platform.cxwlad.com'
+  - 'ads.cxwlad.com'
+  - 'adstat.izuiyou.com'
+  - 'adsys.nineton.cn'
+  - 'advertpay-vip-ssl.xunlei.com'
+  - 'ad.hpplay.cn'
+  - 'ad.baihemob.com'
+  - 'ad.bayescom.com'
+  - 'ad.shunchangzhixing.com'
+  - 'ad.yjjwlkj.com'
+  - 'adx.ezvizlife.com'
+  - 'adx.ys7.com'
+  # ===== 监测 / 归因 =====
+  - '+.miaozhen.com'
+  - 'aps-webhandler.appsflyer.com'
+  - 'api2.branch.io'
+  - 'cdn.branch.io'
+  # ===== 海外广告 =====
+  - '+.doubleclick.net'
+  - 'ads.tiktok.com'
+  - 'ads.pinterest.com'
+  - 'edge.ads.twitch.tv'
+  # ===== App 自有广告 =====
+  - 'ad.12306.cn'
+  - 'ad.17u.cn'
+  - 'ad.t.17u.cn'
+  - 'ad.ximalaya.com'
+  - 'ad.zhuanzhuan.com'
+  - 'ad.mcloud.139.com'
+  # ===== 反诈 / OPPO 遥测阻断 =====
+  - 'obus-cn.dc.heytapmobi.com'
+  - 'mdp-usertrace-cn.heytapmobi.com'
+  - 'api-cn.cdo.heytapmobi.com'
+  - 'odin-inference-cn.allawntech.com'
+  - 'odin-deployment-cn.wanyol.com'
+  - 'ilighthouse.apps.coloros.com'
