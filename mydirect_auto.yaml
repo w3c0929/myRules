@@ -1,7 +1,7 @@
 payload:
 # 自动生成，请勿手改；手写规则放到 mydirect.yaml
 # 状态：已生效
-# updated: 2026-11-07 20:25:38
+# updated: 2026-11-09 04:30:41
   # ===== 国内服务器 =====
   - '+.assets-cdn.salesmartly.com'  # 已生效
   - '+.cdn.fangyuanxiaozhan.com'  # 已生效
@@ -28,28 +28,37 @@ payload:
   - '+.api.tmdb.org'  # 已生效
   - '+.api2.satellitemap.space'  # 已生效
   - '+.auth.bricsys.com'  # 已生效
-  - '+.bbplayer.roitium.com'  # 已生效
   - '+.bricscad.octave.com'  # 已生效
+  - '+.browser.events.data.microsoft.com'  # 已生效
   - '+.browser.sentry-cdn.com'  # 已生效
   - '+.c.vialoops.com'  # 已生效
+  - '+.cdn.contentful.com'  # 已生效
+  - '+.cdn.cookielaw.org'  # 已生效
   - '+.cdn.fonts.net'  # 已生效
   - '+.cdn.ldstatic.com'  # 已生效
   - '+.cdn.mcauto-images-production.sendgrid.net'  # 已生效
+  - '+.cdn.ohmyposh.dev'  # 已生效
+  - '+.code.jquery.com'  # 已生效
   - '+.collect.soku.ai'  # 已生效
   - '+.de1.api.radio-browser.info'  # 已生效
   - '+.dns.iroh.link'  # 已生效
   - '+.download.calibre-ebook.com'  # 已生效
+  - '+.edge.microsoft.com'  # 已生效
+  - '+.euc1-1.relay.n0.iroh.link'  # 已生效
   - '+.fema-femadata.s3.amazonaws.com'  # 已生效
   - '+.forms-na1.hsforms.com'  # 已生效
   - '+.forms.hsforms.com'  # 已生效
+  - '+.go.microsoft.com'  # 已生效
   - '+.hao123.yyzq.eu.org'  # 已生效
   - '+.js.hsforms.net'  # 已生效
   - '+.login.live.com'  # 已生效
   - '+.logos.kiwibrowser.com'  # 已生效
-  - '+.mobile.pipe.aria.microsoft.com'  # 已生效
+  - '+.mobile.events.data.microsoft.com'  # 已生效
   - '+.mssdk-ttp2.tiktokw.us'  # 已生效
   - '+.musicbrainz.emby.tv'  # 已生效
   - '+.o.expo.dev'  # 已生效
+  - '+.oneocsp.microsoft.com'  # 已生效
+  - '+.outlook.office365.com'  # 已生效
   - '+.overturemaps-us-west-2.s3.us-west-2.amazonaws.com'  # 已生效
   - '+.ping.ldstatic.com'  # 已生效
   - '+.pixel.soku.ai'  # 已生效
@@ -58,13 +67,14 @@ payload:
   - '+.stat.nodeseek.org'  # 已生效
   - '+.stats.pseudoyu.com'  # 已生效
   - '+.substrate.office.com'  # 已生效
+  - '+.telemetry.visualstudio.microsoft.com'  # 已生效
   - '+.tiles.satellitemap.space'  # 已生效
   - '+.updates.bbplayer.roitium.com'  # 已生效
   - '+.us-assets.i.posthog.com'  # 已生效
   - '+.us.i.posthog.com'  # 已生效
   - '+.us.posthog.com'  # 已生效
+  - '+.usw1-1.relay.n0.iroh.link'  # 已生效
   - '+.vip.freedidi.com'  # 已生效
-  - '+.widget.announcekit.app'  # 已生效
   - '+.www.bestpractices.dev'  # 已生效
   - '+.www.clouddrive2.com'  # 已生效
   - '+.www.freedidi.com'  # 已生效
@@ -82,4 +92,5 @@ payload:
   - 'picsum.photos'  # 已生效
   - 'satellitemap.space'  # 已生效
   - 'thedeepestsite.com'  # 已生效
+  - 'verlintas.dev'  # 已生效
   - 'vpsboy.top'  # 已生效
