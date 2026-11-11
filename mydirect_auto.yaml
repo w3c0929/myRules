@@ -1,7 +1,7 @@
 payload:
 # 自动生成，请勿手改；手写规则放到 mydirect.yaml
 # 状态：已生效
-# updated: 2026-11-11 04:55:29
+# updated: 2026-11-11 23:16:18
   # ===== 国内服务器 =====
   - '+.assets-cdn.salesmartly.com'  # 已生效
   - '+.cdn.fangyuanxiaozhan.com'  # 已生效
@@ -22,31 +22,30 @@ payload:
   - 'yimubill.com'  # 已生效
   # ===== 海外服务器 =====
   - '+.0353655954175547.hostedstatus.com'  # 已生效
-  - '+.4.ipcheck.ing'  # 已生效
+  - '+.0p7kx4xkmm7g9yjr.click.mailersend.net'  # 已生效
   - '+.aa015h6buqvih86i1.api.met.no'  # 已生效
   - '+.addon.dnslytics.uk'  # 已生效
   - '+.analytics.cloudc.one'  # 已生效
+  - '+.api.nuget.org'  # 已生效
   - '+.api.open-meteo.com'  # 已生效
   - '+.api.tmdb.org'  # 已生效
   - '+.api2.satellitemap.space'  # 已生效
   - '+.api2.smoot.apple.com'  # 已生效
   - '+.auth.bricsys.com'  # 已生效
+  - '+.av-build-tel-api-v1.avaloniaui.net'  # 已生效
   - '+.bricscad.octave.com'  # 已生效
   - '+.browser.sentry-cdn.com'  # 已生效
   - '+.c.vialoops.com'  # 已生效
   - '+.cdn.fonts.net'  # 已生效
   - '+.cdn.ldstatic.com'  # 已生效
   - '+.cdn.mcauto-images-production.sendgrid.net'  # 已生效
-  - '+.collect.soku.ai'  # 已生效
-  - '+.config.edge.skype.com'  # 已生效
+  - '+.dc.services.visualstudio.com'  # 已生效
   - '+.de1.api.radio-browser.info'  # 已生效
   - '+.dns.iroh.link'  # 已生效
   - '+.download.calibre-ebook.com'  # 已生效
-  - '+.euc1-1.relay.n0.iroh.link'  # 已生效
   - '+.fema-femadata.s3.amazonaws.com'  # 已生效
   - '+.forms-na1.hsforms.com'  # 已生效
   - '+.forms.hsforms.com'  # 已生效
-  - '+.fp.msedge.net'  # 已生效
   - '+.geolocation.onetrust.com'  # 已生效
   - '+.hao123.yyzq.eu.org'  # 已生效
   - '+.js.hsforms.net'  # 已生效
@@ -56,7 +55,7 @@ payload:
   - '+.mobile.pipe.aria.microsoft.com'  # 已生效
   - '+.mssdk-ttp2.tiktokw.us'  # 已生效
   - '+.musicbrainz.emby.tv'  # 已生效
-  - '+.o.expo.dev'  # 已生效
+  - '+.officeclient.microsoft.com'  # 已生效
   - '+.overturemaps-us-west-2.s3.us-west-2.amazonaws.com'  # 已生效
   - '+.pixel.soku.ai'  # 已生效
   - '+.productionresultssa16.blob.core.windows.net'  # 已生效
@@ -65,16 +64,16 @@ payload:
   - '+.stat.nodeseek.org'  # 已生效
   - '+.stats.pseudoyu.com'  # 已生效
   - '+.substrate.office.com'  # 已生效
+  - '+.techdocs.broadcom.com'  # 已生效
   - '+.telemetry.visualstudio.microsoft.com'  # 已生效
   - '+.tiles.satellitemap.space'  # 已生效
   - '+.treaty-six-luggage-inf.trycloudflare.com'  # 已生效
   - '+.updates.bbplayer.roitium.com'  # 已生效
   - '+.us.i.posthog.com'  # 已生效
   - '+.us.posthog.com'  # 已生效
-  - '+.usw1-1.relay.n0.iroh.link'  # 已生效
+  - '+.use1-1.relay.n0.iroh.link'  # 已生效
   - '+.vip.freedidi.com'  # 已生效
   - '+.www.bestpractices.dev'  # 已生效
-  - '+.www.clouddrive2.com'  # 已生效
   - '+.www.freedidi.com'  # 已生效
   - '+.www.hecaitou.com'  # 已生效
   - '+.www.mb3admin.com'  # 已生效
