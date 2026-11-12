@@ -1,7 +1,7 @@
 payload:
 # 自动生成，请勿手改；手写规则放到 mydirect.yaml
 # 状态：已生效
-# updated: 2026-11-11 21:05:28
+# updated: 2026-11-13 00:36:01
   # ===== 国内服务器 =====
   - '+.a1-cn.versuni.plus'  # 已生效
   - '+.admin.yuanqcx.com'  # 已生效
@@ -34,7 +34,7 @@ payload:
   - '+.6b4124cea14c43f6a2cf9703a784c76a.apm.westeurope.azure.elastic-cloud.com'  # 已生效
   - '+.a-ring-fallback.msedge.net'  # 已生效
   - '+.api.bazaarvoice.com'  # 已生效
-  - '+.cn.tripadvisor.com'  # 已生效
+  - '+.cdn.ohmyposh.dev'  # 已生效
   - '+.dict.deepl.com'  # 已生效
   - '+.displaycatalog.mp.microsoft.com'  # 已生效
   - '+.errortracking.deepl.com'  # 已生效
@@ -54,6 +54,9 @@ payload:
   - '+.outlook.office365.com'  # 已生效
   - '+.resources.digital-cloud.medallia.eu'  # 已生效
   - '+.sdk.iad-05.braze.com'  # 已生效
+  - '+.snap.licdn.com'  # 已生效
+  - '+.sse-ws-p189.apple.com'  # 已生效
+  - '+.usw2vas.jooaniot.com'  # 已生效
   - '+.w.deepl.com'  # 已生效
   - '+.wt-prod-useast1-storm.s3.us-east-1.amazonaws.com'  # 已生效
   - '+.www2.deepl.com'  # 已生效
