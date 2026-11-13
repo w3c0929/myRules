@@ -1,7 +1,7 @@
 payload:
 # 自动生成，请勿手改；手写规则放到 mydirect.yaml
 # 状态：已生效
-# updated: 2026-11-13 04:25:22
+# updated: 2026-11-14 03:10:22
   # ===== 国内服务器 =====
   - '+.assets-cdn.salesmartly.com'  # 已生效
   - '+.cdn.fangyuanxiaozhan.com'  # 已生效
@@ -42,24 +42,24 @@ payload:
   - '+.dns.iroh.link'  # 已生效
   - '+.download.calibre-ebook.com'  # 已生效
   - '+.download.qt.io'  # 已生效
-  - '+.euc1-1.relay.n0.iroh.link'  # 已生效
   - '+.fema-femadata.s3.amazonaws.com'  # 已生效
   - '+.forms-na1.hsforms.com'  # 已生效
   - '+.forms.hsforms.com'  # 已生效
   - '+.hao123.yyzq.eu.org'  # 已生效
   - '+.js.hsforms.net'  # 已生效
+  - '+.learn.microsoft.com'  # 已生效
   - '+.login.live.com'  # 已生效
   - '+.login.microsoftonline.com'  # 已生效
   - '+.logos.kiwibrowser.com'  # 已生效
-  - '+.mobile.pipe.aria.microsoft.com'  # 已生效
   - '+.mssdk-ttp2.tiktokw.us'  # 已生效
   - '+.musicbrainz.emby.tv'  # 已生效
   - '+.officeclient.microsoft.com'  # 已生效
   - '+.overturemaps-us-west-2.s3.us-west-2.amazonaws.com'  # 已生效
+  - '+.p-ring.msedge.net'  # 已生效
+  - '+.ping.ldstatic.com'  # 已生效
   - '+.pixel.soku.ai'  # 已生效
   - '+.productionresultssa16.blob.core.windows.net'  # 已生效
   - '+.sdk.dv.socure.io'  # 已生效
-  - '+.sf16-website-login.neutral.ttwstatic.com'  # 已生效
   - '+.stat.nodeseek.org'  # 已生效
   - '+.stats.pseudoyu.com'  # 已生效
   - '+.substrate.office.com'  # 已生效
@@ -67,10 +67,11 @@ payload:
   - '+.telemetry.visualstudio.microsoft.com'  # 已生效
   - '+.tiles.satellitemap.space'  # 已生效
   - '+.treaty-six-luggage-inf.trycloudflare.com'  # 已生效
+  - '+.update.code.visualstudio.com'  # 已生效
   - '+.updates.bbplayer.roitium.com'  # 已生效
   - '+.us.i.posthog.com'  # 已生效
   - '+.us.posthog.com'  # 已生效
-  - '+.usw1-1.relay.n0.iroh.link'  # 已生效
+  - '+.use1-1.relay.n0.iroh.link'  # 已生效
   - '+.vip.freedidi.com'  # 已生效
   - '+.vsblobprodscussu5shard42.blob.core.windows.net'  # 已生效
   - '+.www.bestpractices.dev'  # 已生效
@@ -87,7 +88,8 @@ payload:
   - 'lcstp.com'  # 已生效
   - 'loll.cc'  # 已生效
   - 'packagecontrol.io'  # 已生效
-  - 'picsum.photos'  # 已生效
+  - 'release-argus.io'  # 已生效
   - 'satellitemap.space'  # 已生效
+  - 'seatable.com'  # 已生效
   - 'thedeepestsite.com'  # 已生效
   - 'vpsboy.top'  # 已生效
