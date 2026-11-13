@@ -1,7 +1,7 @@
 payload:
 # 自动生成，请勿手改；手写规则放到 mydirect.yaml
 # 状态：已生效
-# updated: 2026-11-13 00:36:01
+# updated: 2026-11-14 03:31:12
   # ===== 国内服务器 =====
   - '+.a1-cn.versuni.plus'  # 已生效
   - '+.admin.yuanqcx.com'  # 已生效
@@ -38,8 +38,8 @@ payload:
   - '+.dict.deepl.com'  # 已生效
   - '+.displaycatalog.mp.microsoft.com'  # 已生效
   - '+.errortracking.deepl.com'  # 已生效
+  - '+.gatewaydsapprd.marriott.com'  # 已生效
   - '+.gsp-ssl.ls.apple.com'  # 已生效
-  - '+.gsp64-ssl.ls.apple.com'  # 已生效
   - '+.gspe79-ssl.ls.apple.com'  # 已生效
   - '+.gtm.deepl.com'  # 已生效
   - '+.image.cloudlayer.icu'  # 已生效
@@ -51,13 +51,13 @@ payload:
   - '+.licensing.mp.microsoft.com'  # 已生效
   - '+.login.live.com'  # 已生效
   - '+.network-stg.bazaarvoice.com'  # 已生效
-  - '+.outlook.office365.com'  # 已生效
+  - '+.ott.deepl.com'  # 已生效
   - '+.resources.digital-cloud.medallia.eu'  # 已生效
   - '+.sdk.iad-05.braze.com'  # 已生效
   - '+.snap.licdn.com'  # 已生效
   - '+.sse-ws-p189.apple.com'  # 已生效
+  - '+.static.zdassets.com'  # 已生效
   - '+.usw2vas.jooaniot.com'  # 已生效
-  - '+.w.deepl.com'  # 已生效
   - '+.wt-prod-useast1-storm.s3.us-east-1.amazonaws.com'  # 已生效
   - '+.www2.deepl.com'  # 已生效
   - 'braze-images.com'  # 已生效
