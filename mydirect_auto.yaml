@@ -1,7 +1,7 @@
 payload:
 # 自动生成，请勿手改；手写规则放到 mydirect.yaml
 # 状态：已生效
-# updated: 2026-11-14 03:10:22
+# updated: 2026-11-14 16:20:31
   # ===== 国内服务器 =====
   - '+.assets-cdn.salesmartly.com'  # 已生效
   - '+.cdn.fangyuanxiaozhan.com'  # 已生效
@@ -46,14 +46,15 @@ payload:
   - '+.forms-na1.hsforms.com'  # 已生效
   - '+.forms.hsforms.com'  # 已生效
   - '+.hao123.yyzq.eu.org'  # 已生效
+  - '+.hub.rat.dev'  # 已生效
   - '+.js.hsforms.net'  # 已生效
   - '+.learn.microsoft.com'  # 已生效
   - '+.login.live.com'  # 已生效
   - '+.login.microsoftonline.com'  # 已生效
   - '+.logos.kiwibrowser.com'  # 已生效
+  - '+.mobile.events.data.microsoft.com'  # 已生效
   - '+.mssdk-ttp2.tiktokw.us'  # 已生效
   - '+.musicbrainz.emby.tv'  # 已生效
-  - '+.officeclient.microsoft.com'  # 已生效
   - '+.overturemaps-us-west-2.s3.us-west-2.amazonaws.com'  # 已生效
   - '+.p-ring.msedge.net'  # 已生效
   - '+.ping.ldstatic.com'  # 已生效
@@ -71,7 +72,7 @@ payload:
   - '+.updates.bbplayer.roitium.com'  # 已生效
   - '+.us.i.posthog.com'  # 已生效
   - '+.us.posthog.com'  # 已生效
-  - '+.use1-1.relay.n0.iroh.link'  # 已生效
+  - '+.usw1-1.relay.n0.iroh.link'  # 已生效
   - '+.vip.freedidi.com'  # 已生效
   - '+.vsblobprodscussu5shard42.blob.core.windows.net'  # 已生效
   - '+.www.bestpractices.dev'  # 已生效
@@ -80,6 +81,7 @@ payload:
   - '+.www.mb3admin.com'  # 已生效
   - '+.www.tampermonkey.net'  # 已生效
   - '+.www.xdgame.com'  # 已生效
+  - '+.ye2.c.lencr.org'  # 已生效
   - '+.yr1.c.lencr.org'  # 已生效
   - 'announcekit.app'  # 已生效
   - 'anotherdayu.com'  # 已生效
