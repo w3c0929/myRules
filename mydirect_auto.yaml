@@ -1,7 +1,7 @@
 payload:
 # 自动生成，请勿手改；手写规则放到 mydirect.yaml
 # 状态：已生效
-# updated: 2026-11-14 16:20:31
+# updated: 2026-11-16 04:15:32
   # ===== 国内服务器 =====
   - '+.assets-cdn.salesmartly.com'  # 已生效
   - '+.cdn.fangyuanxiaozhan.com'  # 已生效
@@ -27,7 +27,6 @@ payload:
   - '+.addon.dnslytics.uk'  # 已生效
   - '+.analytics.cloudc.one'  # 已生效
   - '+.api.nuget.org'  # 已生效
-  - '+.api.open-meteo.com'  # 已生效
   - '+.api.tmdb.org'  # 已生效
   - '+.api2.satellitemap.space'  # 已生效
   - '+.auth.bricsys.com'  # 已生效
@@ -37,33 +36,42 @@ payload:
   - '+.c.vialoops.com'  # 已生效
   - '+.cdn.fonts.net'  # 已生效
   - '+.cdn.ldstatic.com'  # 已生效
+  - '+.cdn.ohmyposh.dev'  # 已生效
   - '+.dc.services.visualstudio.com'  # 已生效
   - '+.de1.api.radio-browser.info'  # 已生效
+  - '+.dlcdnimgs.asus.com'  # 已生效
+  - '+.dlcdnrog.asus.com'  # 已生效
   - '+.dns.iroh.link'  # 已生效
   - '+.download.calibre-ebook.com'  # 已生效
   - '+.download.qt.io'  # 已生效
+  - '+.edge.microsoft.com'  # 已生效
+  - '+.ekr.zdassets.com'  # 已生效
+  - '+.euc1-1.relay.n0.iroh.link'  # 已生效
   - '+.fema-femadata.s3.amazonaws.com'  # 已生效
   - '+.forms-na1.hsforms.com'  # 已生效
   - '+.forms.hsforms.com'  # 已生效
   - '+.hao123.yyzq.eu.org'  # 已生效
   - '+.hub.rat.dev'  # 已生效
   - '+.js.hsforms.net'  # 已生效
-  - '+.learn.microsoft.com'  # 已生效
-  - '+.login.live.com'  # 已生效
   - '+.login.microsoftonline.com'  # 已生效
   - '+.logos.kiwibrowser.com'  # 已生效
   - '+.mobile.events.data.microsoft.com'  # 已生效
   - '+.mssdk-ttp2.tiktokw.us'  # 已生效
   - '+.musicbrainz.emby.tv'  # 已生效
+  - '+.ohttp-relay-safebrowsing-android.google.fastly-edge.com'  # 已生效
+  - '+.oneocsp.microsoft.com'  # 已生效
   - '+.overturemaps-us-west-2.s3.us-west-2.amazonaws.com'  # 已生效
   - '+.p-ring.msedge.net'  # 已生效
   - '+.ping.ldstatic.com'  # 已生效
   - '+.pixel.soku.ai'  # 已生效
+  - '+.productionresultssa0.blob.core.windows.net'  # 已生效
   - '+.productionresultssa16.blob.core.windows.net'  # 已生效
   - '+.sdk.dv.socure.io'  # 已生效
+  - '+.snap.licdn.com'  # 已生效
   - '+.stat.nodeseek.org'  # 已生效
+  - '+.static.rust-lang.org'  # 已生效
+  - '+.static.zdassets.com'  # 已生效
   - '+.stats.pseudoyu.com'  # 已生效
-  - '+.substrate.office.com'  # 已生效
   - '+.techdocs.broadcom.com'  # 已生效
   - '+.telemetry.visualstudio.microsoft.com'  # 已生效
   - '+.tiles.satellitemap.space'  # 已生效
@@ -72,6 +80,7 @@ payload:
   - '+.updates.bbplayer.roitium.com'  # 已生效
   - '+.us.i.posthog.com'  # 已生效
   - '+.us.posthog.com'  # 已生效
+  - '+.use1-1.relay.n0.iroh.link'  # 已生效
   - '+.usw1-1.relay.n0.iroh.link'  # 已生效
   - '+.vip.freedidi.com'  # 已生效
   - '+.vsblobprodscussu5shard42.blob.core.windows.net'  # 已生效
