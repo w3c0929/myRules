@@ -65,3 +65,6 @@ payload:
   - 'odin-inference-cn.allawntech.com'
   - 'odin-deployment-cn.wanyol.com'
   - 'ilighthouse.apps.coloros.com'
+  # ===== 手机 SDK 遥测（comfylink / uhabo） =====
+  - '+.comfylink.com'
+  - '+.uhabo.com'
