@@ -1,7 +1,7 @@
 payload:
 # 自动生成，请勿手改；手写规则放到 mydirect.yaml
 # 状态：已生效
-# updated: 2026-11-19 01:16:33
+# updated: 2026-11-20 23:56:36
   # ===== 国内服务器 =====
   - '+.a1-cn.versuni.plus'  # 已生效
   - '+.admin.yuanqcx.com'  # 已生效
@@ -39,11 +39,11 @@ payload:
   - '+.6b4124cea14c43f6a2cf9703a784c76a.apm.westeurope.azure.elastic-cloud.com'  # 已生效
   - '+.a-ring-fallback.msedge.net'  # 已生效
   - '+.amap.onelink.me'  # 已生效
-  - '+.api.frankfurter.app'  # 已生效
   - '+.api.ip.sb'  # 已生效
   - '+.api.pico.bendingspoonsapps.com'  # 已生效
   - '+.apple-relay.fastly-edge.com'  # 已生效
   - '+.apps.rokt-api.com'  # 已生效
+  - '+.cache.marriott.com'  # 已生效
   - '+.cdn.clarip.com'  # 已生效
   - '+.cdn.cookielaw.org'  # 已生效
   - '+.cdn.growthbook.io'  # 已生效
@@ -80,7 +80,7 @@ payload:
   - '+.sentry.52cebu.com'  # 已生效
   - '+.spidersense.bendingspoons.com'  # 已生效
   - '+.sse-ws-p189.apple.com'  # 已生效
-  - '+.ucsm.hiltonapi.com'  # 已生效
+  - '+.wetransfer.statuspage.io'  # 已生效
   - '+.wetransfer.zendesk.com'  # 已生效
   - '+.wt-prod-useast1-storm.s3.us-east-1.amazonaws.com'  # 已生效
   - '+.www.deepl.com'  # 已生效
@@ -88,6 +88,7 @@ payload:
   - '+.www.nor1upgrades.com'  # 已生效
   - '+.www2.deepl.com'  # 已生效
   - '+.x1.c.lencr.org'  # 已生效
+  - '+.x2.c.lencr.org'  # 已生效
   - 'braze-images.com'  # 已生效
   - 'litmus.com'  # 已生效
   - 'outlook.com'  # 已生效
