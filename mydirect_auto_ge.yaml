@@ -1,9 +1,10 @@
 payload:
 # 自动生成，请勿手改；手写规则放到 mydirect.yaml
 # 状态：已生效
-# updated: 2026-11-20 23:56:36
+# updated: 2026-11-21 23:16:30
   # ===== 国内服务器 =====
   - '+.a1-cn.versuni.plus'  # 已生效
+  - '+.acc.eo.nextacgn.com'  # 已生效
   - '+.admin.yuanqcx.com'  # 已生效
   - '+.api.aixxj.com'  # 已生效
   - '+.api.class.acagrid.com'  # 已生效
@@ -14,6 +15,7 @@ payload:
   - '+.captive.apple.com'  # 已生效
   - '+.cdn.app.universalbeijingresort.com'  # 已生效
   - '+.cos.mfcxing.com'  # 已生效
+  - '+.coupon.api.nextacgn.com'  # 已生效
   - '+.cptopapi.campustop.net'  # 已生效
   - '+.demo.quyouyou.top'  # 已生效
   - '+.device-config.pcms.apple.com'  # 已生效
@@ -43,10 +45,12 @@ payload:
   - '+.api.pico.bendingspoonsapps.com'  # 已生效
   - '+.apple-relay.fastly-edge.com'  # 已生效
   - '+.apps.rokt-api.com'  # 已生效
+  - '+.assets.adobedtm.com'  # 已生效
   - '+.cache.marriott.com'  # 已生效
   - '+.cdn.clarip.com'  # 已生效
   - '+.cdn.cookielaw.org'  # 已生效
   - '+.cdn.growthbook.io'  # 已生效
+  - '+.cdn.ohmyposh.dev'  # 已生效
   - '+.cf.xiu2.xyz'  # 已生效
   - '+.clearance.deepl.com'  # 已生效
   - '+.collections.mp.microsoft.com'  # 已生效
@@ -74,6 +78,7 @@ payload:
   - '+.n2n5o3nlb661.cloud.run'  # 已生效
   - '+.network-stg.bazaarvoice.com'  # 已生效
   - '+.ott.deepl.com'  # 已生效
+  - '+.ph.limblimb.com'  # 已生效
   - '+.resources.digital-cloud.medallia.eu'  # 已生效
   - '+.s.yimg.jp'  # 已生效
   - '+.sdk.iad-05.braze.com'  # 已生效
