@@ -1,7 +1,7 @@
 payload:
 # 自动生成，请勿手改；手写规则放到 mydirect.yaml
 # 状态：已生效
-# updated: 2026-11-21 00:55:38
+# updated: 2026-11-23 00:39:00
   # ===== 国内服务器 =====
   - '+.assets-cdn.salesmartly.com'  # 已生效
   - '+.cdn.fangyuanxiaozhan.com'  # 已生效
@@ -36,6 +36,7 @@ payload:
   - '+.alerts.home-assistant.io'  # 已生效
   - '+.analytics.cloudc.one'  # 已生效
   - '+.analytics.icebear.tech'  # 已生效
+  - '+.api-safari-aapne1c.smoot.apple.com'  # 已生效
   - '+.api.frankfurter.app'  # 已生效
   - '+.api.i-meto.com'  # 已生效
   - '+.api.iconify.design'  # 已生效
@@ -45,9 +46,7 @@ payload:
   - '+.api.tmdb.org'  # 已生效
   - '+.api.trycloudflare.com'  # 已生效
   - '+.api2.satellitemap.space'  # 已生效
-  - '+.app.bbplayer.roitium.com'  # 已生效
   - '+.aps.prod.windows.com'  # 已生效
-  - '+.aps1-1.relay.n0.iroh.link'  # 已生效
   - '+.asus-brand-assistant.asus.com'  # 已生效
   - '+.asuschatapi.asus.com'  # 已生效
   - '+.auth.bricsys.com'  # 已生效
@@ -61,7 +60,6 @@ payload:
   - '+.cdn.cookielaw.org'  # 已生效
   - '+.cdn.ego.app'  # 已生效
   - '+.cdn.fonts.net'  # 已生效
-  - '+.cdn.fwupd.org'  # 已生效
   - '+.cdn.ldstatic.com'  # 已生效
   - '+.cdn.mcauto-images-production.sendgrid.net'  # 已生效
   - '+.cdn.ohmyposh.dev'  # 已生效
@@ -83,8 +81,6 @@ payload:
   - '+.download.calibre-ebook.com'  # 已生效
   - '+.download.qt.io'  # 已生效
   - '+.edge.microsoft.com'  # 已生效
-  - '+.engage.cloudflareclient.com'  # 已生效
-  - '+.euc1-1.relay.n0.iroh.link'  # 已生效
   - '+.ev2-ring.msedge.net'  # 已生效
   - '+.fastly.picsum.photos'  # 已生效
   - '+.fb-unicast.msedge.net'  # 已生效
@@ -97,12 +93,11 @@ payload:
   - '+.g-api.kwai.com'  # 已生效
   - '+.geolocation.onetrust.com'  # 已生效
   - '+.go.microsoft.com'  # 已生效
+  - '+.graph.microsoft.com'  # 已生效
   - '+.hao123.yyzq.eu.org'  # 已生效
   - '+.hub.rat.dev'  # 已生效
-  - '+.hub.v2core.com'  # 已生效
   - '+.i.expo.dev'  # 已生效
   - '+.i.loli.net'  # 已生效
-  - '+.image.cloudlayer.icu'  # 已生效
   - '+.image.tmdb.org'  # 已生效
   - '+.images.ctfassets.net'  # 已生效
   - '+.img.email.seatable.com'  # 已生效
@@ -118,6 +113,7 @@ payload:
   - '+.login.microsoftonline.com'  # 已生效
   - '+.logos.kiwibrowser.com'  # 已生效
   - '+.maillinkforward.encharge.io'  # 已生效
+  - '+.matomo.ping.pe'  # 已生效
   - '+.media.ko-fi.com'  # 已生效
   - '+.mobile.events.data.microsoft.com'  # 已生效
   - '+.mobile.pipe.aria.microsoft.com'  # 已生效
@@ -127,7 +123,6 @@ payload:
   - '+.mwservice.asus.com'  # 已生效
   - '+.ohttp-relay-safebrowsing-android.google.fastly-edge.com'  # 已生效
   - '+.oneclient.sfx.ms'  # 已生效
-  - '+.oneocsp.microsoft.com'  # 已生效
   - '+.open.cherryin.ai'  # 已生效
   - '+.open.er-api.com'  # 已生效
   - '+.overturemaps-us-west-2.s3.us-west-2.amazonaws.com'  # 已生效
@@ -138,8 +133,8 @@ payload:
   - '+.privacyportal.onetrust.com'  # 已生效
   - '+.productionresultssa0.blob.core.windows.net'  # 已生效
   - '+.productionresultssa16.blob.core.windows.net'  # 已生效
+  - '+.productionresultssa17.blob.core.windows.net'  # 已生效
   - '+.productionresultssa2.blob.core.windows.net'  # 已生效
-  - '+.radar.zichuanlan.top'  # 已生效
   - '+.releases.halo.run'  # 已生效
   - '+.repository.certum.pl'  # 已生效
   - '+.rog.asus.com'  # 已生效
@@ -158,17 +153,17 @@ payload:
   - '+.subca.repository.certum.pl'  # 已生效
   - '+.substrate.office.com'  # 已生效
   - '+.t-ring.msedge.net'  # 已生效
+  - '+.tcp.ping.pe'  # 已生效
   - '+.teams-ring.msedge.net'  # 已生效
   - '+.techdocs.broadcom.com'  # 已生效
   - '+.telemetry.visualstudio.microsoft.com'  # 已生效
-  - '+.test.xquic.com'  # 已生效
   - '+.tiles.satellitemap.space'  # 已生效
   - '+.treaty-six-luggage-inf.trycloudflare.com'  # 已生效
   - '+.update.code.visualstudio.com'  # 已生效
   - '+.updates.bbplayer.roitium.com'  # 已生效
   - '+.us.i.posthog.com'  # 已生效
   - '+.us.posthog.com'  # 已生效
-  - '+.use1-1.relay.n0.iroh.link'  # 已生效
+  - '+.usw1-1.relay.n0.iroh.link'  # 已生效
   - '+.vip.freedidi.com'  # 已生效
   - '+.vsblobprodscussu5shard42.blob.core.windows.net'  # 已生效
   - '+.wetransfer.zendesk.com'  # 已生效
@@ -195,6 +190,7 @@ payload:
   - 'anotherdayu.com'  # 已生效
   - 'argustask.com'  # 已生效
   - 'cdn-cookieyes.com'  # 已生效
+  - 'cloudflare-ech.com'  # 已生效
   - 'dockerstatic.com'  # 已生效
   - 'freedidi.com'  # 已生效
   - 'haoyongzhai.com'  # 已生效
@@ -208,11 +204,13 @@ payload:
   - 'naiyous.com'  # 已生效
   - 'packagecontrol.io'  # 已生效
   - 'picsum.photos'  # 已生效
-  - 'pixpin.com'  # 已生效
+  - 'ping.pe'  # 已生效
   - 'release-argus.io'  # 已生效
   - 'rsms.me'  # 已生效
   - 'satellitemap.space'  # 已生效
   - 'seatable.com'  # 已生效
+  - 'seedog.cc'  # 已生效
+  - 'seeduck.cc'  # 已生效
   - 'sidhub.cc'  # 已生效
   - 'tgbox.cc'  # 已生效
   - 'thedeepestsite.com'  # 已生效
