@@ -1,7 +1,7 @@
 payload:
 # 自动生成，请勿手改；手写规则放到 mydirect.yaml
 # 状态：已生效
-# updated: 2026-11-23 00:39:00
+# updated: 2026-11-26 04:40:09
   # ===== 国内服务器 =====
   - '+.assets-cdn.salesmartly.com'  # 已生效
   - '+.cdn.fangyuanxiaozhan.com'  # 已生效
@@ -13,7 +13,6 @@ payload:
   - '+.s1.tc.bing.net'  # 已生效
   - '+.srz.salesmartly.com'  # 已生效
   - '+.summary.tianli0.top'  # 已生效
-  - '+.ts1.tc.mm.bing.net'  # 已生效
   - '+.www.cloudplayplus.com'  # 已生效
   - '+.www.litepan.top'  # 已生效
   - '+.www.ygz.ink'  # 已生效
@@ -35,9 +34,7 @@ payload:
   - '+.aefd.nelreports.net'  # 已生效
   - '+.alerts.home-assistant.io'  # 已生效
   - '+.analytics.cloudc.one'  # 已生效
-  - '+.analytics.icebear.tech'  # 已生效
   - '+.api-safari-aapne1c.smoot.apple.com'  # 已生效
-  - '+.api.frankfurter.app'  # 已生效
   - '+.api.i-meto.com'  # 已生效
   - '+.api.iconify.design'  # 已生效
   - '+.api.ip.sb'  # 已生效
@@ -47,6 +44,8 @@ payload:
   - '+.api.trycloudflare.com'  # 已生效
   - '+.api2.satellitemap.space'  # 已生效
   - '+.aps.prod.windows.com'  # 已生效
+  - '+.aps1-1.relay.n0.iroh.link'  # 已生效
+  - '+.assets.adobedtm.com'  # 已生效
   - '+.asus-brand-assistant.asus.com'  # 已生效
   - '+.asuschatapi.asus.com'  # 已生效
   - '+.auth.bricsys.com'  # 已生效
@@ -58,7 +57,6 @@ payload:
   - '+.c-ring.msedge.net'  # 已生效
   - '+.c.vialoops.com'  # 已生效
   - '+.cdn.cookielaw.org'  # 已生效
-  - '+.cdn.ego.app'  # 已生效
   - '+.cdn.fonts.net'  # 已生效
   - '+.cdn.ldstatic.com'  # 已生效
   - '+.cdn.mcauto-images-production.sendgrid.net'  # 已生效
@@ -67,7 +65,6 @@ payload:
   - '+.cdn3.ldstatic.com'  # 已生效
   - '+.certumdvtlsg2r39ca.repository.certum.pl'  # 已生效
   - '+.cf.xiu2.xyz'  # 已生效
-  - '+.chrome.adtidy.org'  # 已生效
   - '+.cid.v2ex.pro'  # 已生效
   - '+.code.jquery.com'  # 已生效
   - '+.config.edge.skype.com'  # 已生效
@@ -81,13 +78,12 @@ payload:
   - '+.download.calibre-ebook.com'  # 已生效
   - '+.download.qt.io'  # 已生效
   - '+.edge.microsoft.com'  # 已生效
+  - '+.euc1-1.relay.n0.iroh.link'  # 已生效
   - '+.ev2-ring.msedge.net'  # 已生效
-  - '+.fastly.picsum.photos'  # 已生效
   - '+.fb-unicast.msedge.net'  # 已生效
   - '+.fema-femadata.s3.amazonaws.com'  # 已生效
   - '+.fog.22112211.xyz'  # 已生效
   - '+.forms-na1.hsforms.com'  # 已生效
-  - '+.forms.hsforms.com'  # 已生效
   - '+.fp.msedge.net'  # 已生效
   - '+.ftp.jaist.ac.jp'  # 已生效
   - '+.g-api.kwai.com'  # 已生效
@@ -96,27 +92,25 @@ payload:
   - '+.graph.microsoft.com'  # 已生效
   - '+.hao123.yyzq.eu.org'  # 已生效
   - '+.hub.rat.dev'  # 已生效
-  - '+.i.expo.dev'  # 已生效
   - '+.i.loli.net'  # 已生效
   - '+.image.tmdb.org'  # 已生效
   - '+.images.ctfassets.net'  # 已生效
   - '+.img.email.seatable.com'  # 已生效
-  - '+.img.shields.io'  # 已生效
   - '+.img.subhd.me'  # 已生效
   - '+.img.zzzypro.com'  # 已生效
   - '+.index.crates.io'  # 已生效
-  - '+.ka-f.fontawesome.com'  # 已生效
   - '+.lamr-prod-t-tunicast.msedge.net'  # 已生效
   - '+.lamr-staging-tpbi-tunicast.msedge.net'  # 已生效
   - '+.lite.ego.app'  # 已生效
+  - '+.ln-ring.msedge.net'  # 已生效
   - '+.login.live.com'  # 已生效
   - '+.login.microsoftonline.com'  # 已生效
   - '+.logos.kiwibrowser.com'  # 已生效
   - '+.maillinkforward.encharge.io'  # 已生效
-  - '+.matomo.ping.pe'  # 已生效
   - '+.media.ko-fi.com'  # 已生效
   - '+.mobile.events.data.microsoft.com'  # 已生效
   - '+.mobile.pipe.aria.microsoft.com'  # 已生效
+  - '+.mr-prod-t.msedge.net'  # 已生效
   - '+.msdl.microsoft.com'  # 已生效
   - '+.mssdk-ttp2.tiktokw.us'  # 已生效
   - '+.musicbrainz.emby.tv'  # 已生效
@@ -125,9 +119,9 @@ payload:
   - '+.oneclient.sfx.ms'  # 已生效
   - '+.open.cherryin.ai'  # 已生效
   - '+.open.er-api.com'  # 已生效
+  - '+.outlook.office365.com'  # 已生效
   - '+.overturemaps-us-west-2.s3.us-west-2.amazonaws.com'  # 已生效
   - '+.p-ring.msedge.net'  # 已生效
-  - '+.ph.limblimb.com'  # 已生效
   - '+.ping.ldstatic.com'  # 已生效
   - '+.pixel.soku.ai'  # 已生效
   - '+.privacyportal.onetrust.com'  # 已生效
@@ -139,7 +133,6 @@ payload:
   - '+.repository.certum.pl'  # 已生效
   - '+.rog.asus.com'  # 已生效
   - '+.sdk.dv.socure.io'  # 已生效
-  - '+.sendy.dedirock.com'  # 已生效
   - '+.sh1.pcie.pppoe.top'  # 已生效
   - '+.southcentralus-0.in.applicationinsights.azure.com'  # 已生效
   - '+.stac.overturemaps.org'  # 已生效
@@ -152,6 +145,7 @@ payload:
   - '+.storage.ko-fi.com'  # 已生效
   - '+.subca.repository.certum.pl'  # 已生效
   - '+.substrate.office.com'  # 已生效
+  - '+.t-ring-fallbacks1.msedge.net'  # 已生效
   - '+.t-ring.msedge.net'  # 已生效
   - '+.tcp.ping.pe'  # 已生效
   - '+.teams-ring.msedge.net'  # 已生效
@@ -163,9 +157,11 @@ payload:
   - '+.updates.bbplayer.roitium.com'  # 已生效
   - '+.us.i.posthog.com'  # 已生效
   - '+.us.posthog.com'  # 已生效
+  - '+.use1-1.relay.n0.iroh.link'  # 已生效
   - '+.usw1-1.relay.n0.iroh.link'  # 已生效
   - '+.vip.freedidi.com'  # 已生效
   - '+.vsblobprodscussu5shard42.blob.core.windows.net'  # 已生效
+  - '+.w.7rs.net'  # 已生效
   - '+.wetransfer.zendesk.com'  # 已生效
   - '+.www.bestpractices.dev'  # 已生效
   - '+.www.deepflood.com'  # 已生效
@@ -184,6 +180,7 @@ payload:
   - '+.ye2.c.lencr.org'  # 已生效
   - '+.yr1.c.lencr.org'  # 已生效
   - '+.zero-trust-client.cloudflareclient.com'  # 已生效
+  - 'ajiang.me'  # 已生效
   - 'aka.ms'  # 已生效
   - 'anclicker.com'  # 已生效
   - 'announcekit.app'  # 已生效
@@ -199,6 +196,7 @@ payload:
   - 'javbooks.com'  # 已生效
   - 'ko-fi.com'  # 已生效
   - 'lcstp.com'  # 已生效
+  - 'libernt.com'  # 已生效
   - 'linkclose.com'  # 已生效
   - 'loll.cc'  # 已生效
   - 'naiyous.com'  # 已生效
@@ -218,5 +216,4 @@ payload:
   - 'uy635.com'  # 已生效
   - 'vpsboy.top'  # 已生效
   - 'wsrv.nl'  # 已生效
-  - 'xyzym3u8.com'  # 已生效
   - 'xyzyts.com'  # 已生效
