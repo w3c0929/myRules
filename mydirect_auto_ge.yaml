@@ -1,7 +1,7 @@
 payload:
 # 自动生成，请勿手改；手写规则放到 mydirect.yaml
 # 状态：已生效
-# updated: 2026-11-26 04:45:17
+# updated: 2026-11-27 03:56:14
   # ===== 国内服务器 =====
   - '+.a1-cn.versuni.plus'  # 已生效
   - '+.acc.eo.nextacgn.com'  # 已生效
@@ -11,7 +11,6 @@ payload:
   - '+.api.mfcxing.com'  # 已生效
   - '+.app.32hike.com'  # 已生效
   - '+.assets-mercury.mzstatic.com'  # 已生效
-  - '+.authority.huwentec.com'  # 已生效
   - '+.captive.apple.com'  # 已生效
   - '+.cos.mfcxing.com'  # 已生效
   - '+.coupon.api.nextacgn.com'  # 已生效
@@ -34,13 +33,9 @@ payload:
   - '+.wallet.cdn-apple.com'  # 已生效
   - '+.www.dhl.com'  # 已生效
   - '+.wx.xinboduiyi.com'  # 已生效
-  - '+.zh.campustop.net'  # 已生效
   # ===== 海外服务器 =====
   - '+.6b4124cea14c43f6a2cf9703a784c76a.apm.westeurope.azure.elastic-cloud.com'  # 已生效
   - '+.a-ring-fallback.msedge.net'  # 已生效
-  - '+.amap.onelink.me'  # 已生效
-  - '+.d26293160n38c.cloudfront.net'  # 已生效
-  - '+.dcpd82sn86s25.cloudfront.net'  # 已生效
   - '+.dict.deepl.com'  # 已生效
   - '+.displaycatalog.mp.microsoft.com'  # 已生效
   - '+.dual-s-ring.msedge.net'  # 已生效
@@ -55,17 +50,16 @@ payload:
   - '+.licensing.mp.microsoft.com'  # 已生效
   - '+.login.live.com'  # 已生效
   - '+.matomo.52cebu.com'  # 已生效
-  - '+.network-stg.bazaarvoice.com'  # 已生效
   - '+.ott.deepl.com'  # 已生效
   - '+.resources.digital-cloud.medallia.eu'  # 已生效
   - '+.sdk.iad-05.braze.com'  # 已生效
   - '+.sse-ws-p189.apple.com'  # 已生效
+  - '+.use1vas.jooaniot.com'  # 已生效
   - '+.w.deepl.com'  # 已生效
-  - '+.wetransfer.zendesk.com'  # 已生效
   - '+.wt-prod-useast1-storm.s3.us-east-1.amazonaws.com'  # 已生效
   - '+.www2.deepl.com'  # 已生效
-  - '+.zero-trust-client.cloudflareclient.com'  # 已生效
   - 'braze-images.com'  # 已生效
+  - 'digitalkeypairing.org'  # 已生效
   - 'litmus.com'  # 已生效
   - 'outlook.com'  # 已生效
   - 'wise.com'  # 已生效
