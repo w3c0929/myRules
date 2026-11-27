@@ -1,7 +1,7 @@
 payload:
 # 自动生成，请勿手改；手写规则放到 mydirect.yaml
 # 状态：已生效
-# updated: 2026-11-27 03:56:14
+# updated: 2026-11-28 01:50:26
   # ===== 国内服务器 =====
   - '+.a1-cn.versuni.plus'  # 已生效
   - '+.acc.eo.nextacgn.com'  # 已生效
@@ -36,24 +36,23 @@ payload:
   # ===== 海外服务器 =====
   - '+.6b4124cea14c43f6a2cf9703a784c76a.apm.westeurope.azure.elastic-cloud.com'  # 已生效
   - '+.a-ring-fallback.msedge.net'  # 已生效
+  - '+.cdn.ohmyposh.dev'  # 已生效
   - '+.dict.deepl.com'  # 已生效
   - '+.displaycatalog.mp.microsoft.com'  # 已生效
   - '+.dual-s-ring.msedge.net'  # 已生效
   - '+.errortracking.deepl.com'  # 已生效
-  - '+.feature-flagging.deepl.com'  # 已生效
   - '+.functional.events.data.microsoft.com'  # 已生效
   - '+.gsp-ssl.ls.apple.com'  # 已生效
+  - '+.gspe79-ssl.ls.apple.com'  # 已生效
   - '+.gtm.deepl.com'  # 已生效
   - '+.ita-free.www.deepl.com'  # 已生效
   - '+.ita.fal.free.deepl.com'  # 已生效
   - '+.jvxpxl.marriott.com'  # 已生效
   - '+.licensing.mp.microsoft.com'  # 已生效
   - '+.login.live.com'  # 已生效
-  - '+.matomo.52cebu.com'  # 已生效
   - '+.ott.deepl.com'  # 已生效
   - '+.resources.digital-cloud.medallia.eu'  # 已生效
   - '+.sdk.iad-05.braze.com'  # 已生效
-  - '+.sse-ws-p189.apple.com'  # 已生效
   - '+.use1vas.jooaniot.com'  # 已生效
   - '+.w.deepl.com'  # 已生效
   - '+.wt-prod-useast1-storm.s3.us-east-1.amazonaws.com'  # 已生效
@@ -62,4 +61,3 @@ payload:
   - 'digitalkeypairing.org'  # 已生效
   - 'litmus.com'  # 已生效
   - 'outlook.com'  # 已生效
-  - 'wise.com'  # 已生效
